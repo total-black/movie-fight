@@ -1,3 +1,3 @@
-Movie Fight
+#Movie Fight
 
-A simple JavaScript app to compare movies
+## This project is a simple application comparing movies.
